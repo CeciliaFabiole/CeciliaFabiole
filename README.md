@@ -1,7 +1,7 @@
 # Good Morning, I'm Cecilia! ☀️
 ## I am a Junior Web Developer!
 
-- 🔭 I’m currently working on little personal projects, and a team artistical project
+- 🔭 I’m currently working on little personal projects, and a team project
 - 🌱 I’m currently learning new usefull languages and tools
 - 💬 Ask me about React
 - 📫 How to reach me: ceciliafabiole18@gmail.com
